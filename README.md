@@ -8,7 +8,8 @@
 <p>
   <img src="https://img.shields.io/badge/每天練習中-持續進步-ffb6c1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-學習中-87cefa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/目標-每天變強一點-f9c74f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-學習中-a78bfa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/未來目標-Unity%20AI-f9c74f?style=for-the-badge" />
 </p>
 
 </div>
@@ -19,6 +20,13 @@
 
 這裡是我每天練習程式的地方。  
 我把每天學到的內容、寫過的小程式、遇到的錯誤，還有自己的練習紀錄整理在這裡。
+
+目前我主要在練習：
+
+- Python
+- C#
+- 基礎程式邏輯
+- 每日小練習
 
 雖然現在還在慢慢學，  
 但我希望能把每天的小進步，一點一點累積起來。
@@ -33,38 +41,70 @@
 而是真的有動手寫、有持續練習、有慢慢進步。
 
 把每天的內容記錄下來，不只是整理程式碼，  
-也是在幫自己留下成長的痕跡 ✨
+也是在幫自己留下成長的痕跡。
+
+我想讓這個倉庫變成：
+
+- 我的每日練習區
+- 我的學習紀錄本
+- 我的進步證明
+- 未來作品的起點
 
 ---
 
 ## 📚 我目前在練習什麼？
 
-目前會從基礎開始，慢慢往上學：
+目前會先從基礎開始，慢慢往上學：
 
-- 變數與資料型態
+### Python
 - `print()` 輸出
 - `input()` 輸入
-- `if / elif / else` 條件判斷
-- `for` / `while` 迴圈
+- 變數
+- `if / elif / else`
+- `for / while`
 - 函式（function）
 - 串列（list）
 - 字典（dictionary）
+- 字串處理
 - 錯誤排除
-- 小練習題
 
-之後希望可以慢慢加入：
+### C#
+- 基本語法
+- 變數
+- 條件判斷
+- 迴圈
+- 方法（method）
+- 類別（class）基礎
+- 小練習程式
 
-- 檔案讀寫
-- 小工具程式
-- 小遊戲
-- 自動化程式
-- 更完整的小作品
+---
+
+## 🌟 我的未來目標
+
+除了每天練習程式之外，  
+我未來也想往這個方向前進：
+
+# 🎮 Unity + 視覺化 AI
+
+我希望之後可以學習 Unity，  
+做出能夠用畫面看見的 AI 小專案，例如：
+
+- AI 角色自己移動
+- AI 互相競爭
+- AI 搶資源
+- AI 根據規則做決策
+- 之後進一步挑戰「會自己學習」的 AI
+
+我覺得這種把程式、畫面、互動、AI 結合在一起的感覺很有趣，  
+也希望未來能慢慢做到：
+
+> **讓 AI 在畫面裡互相學習、互相競爭、互相成長。**
 
 ---
 
 ## 🧸 我的學習方式
 
-我現在的練習方式大概是這樣：
+我現在的學習方式大概是這樣：
 
 - 先看懂今天要學的內容
 - 自己重新打一遍
@@ -78,17 +118,10 @@
 
 ---
 
-## 🗂️ 資料夾結構
+## 🗂️ 目前資料夾結構
 
 ```bash
 Program-practice/
-├─ Day_train/
-│  ├─ Day01/
-│  ├─ Day02/
-│  ├─ Day03/
-│  └─ ...
-├─ assets/
-│  ├─ cute-banner.png
-│  ├─ study-preview.png
-│  └─ progress.png
+├─ Day_train(Python)/
+├─ Day_train(C#)/
 └─ README.md
