@@ -82,11 +82,11 @@
 - [x] `print()` / `input()`
 - [x] 變數
 - [x] `if / elif / else`
-- [ ] `for / while`
+- [x] `for / while`
 - [ ] 函式 `def`
-- [ ] `list`
+- [x] `list`
 - [ ] `dictionary`
-- [ ] 字串處理
+- [x] 字串處理
 - [ ] 檔案讀寫
 - [ ] JSON 基礎
 - [ ] 基本除錯
