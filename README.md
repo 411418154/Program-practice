@@ -83,9 +83,9 @@
 - [x] 變數
 - [x] `if / elif / else`
 - [x] `for / while`
-- [ ] 函式 `def`
+- [x] 函式 `def`
 - [x] `list`
-- [ ] `dictionary`
+- [x] `dictionary`
 - [x] 字串處理
 - [ ] 檔案讀寫
 - [ ] JSON 基礎
